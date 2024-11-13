@@ -1,0 +1,12 @@
+.slick-slide {
+  padding: 10px;
+}
+
+.slick-slide img {
+  display: block;
+  margin: auto;
+}
+
+.slick-prev, .slick-next {
+  z-index: 1;
+}
